@@ -1,0 +1,21 @@
+{
+  "name": "twitterstreams",
+  "version": "0.1.0",
+  "description": "Twitter Streaming API simple HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streaming",
+    "twitter"
+  ],
+  "author": "Xavier Petit",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "ioredis": "^4.6.2",
+    "oauth": "^0.9.15",
+    "twit": "^2.2.11"
+  }
+}
