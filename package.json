@@ -15,6 +15,7 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "ioredis": "^4.6.2",
+    "mongoose": "^5.4.16",
     "oauth": "^0.9.15",
     "twit": "^2.2.11"
   }
